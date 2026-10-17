@@ -1,4 +1,4 @@
-module github.com/corvus-dotnet/go-corvus-json-schema
+module github.com/bowtie-json-schema/go-corvus-json-schema
 
 go 1.25.0
 
